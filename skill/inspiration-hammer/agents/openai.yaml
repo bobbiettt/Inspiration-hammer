@@ -1,0 +1,4 @@
+interface:
+  display_name: "灵感之锤"
+  short_description: "用交互选项选择锤击方式，打开三个意外脑洞而不代写答案"
+  default_prompt: "使用 $inspiration-hammer，从我的初版需求开始，先让我选择自由锤击或智能锤击。"
